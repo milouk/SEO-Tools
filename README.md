@@ -113,7 +113,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Dead Link Checker:https://www.deadlinkchecker.com/</li>
   </ul>
 
-   <h4>Brokenlink Checker</h4>
+   <h4>Redirect Checker</h4>
   <ul>
     <li>Redirect checker:https://www.redirect-checker.org/</li>
   </ul>
